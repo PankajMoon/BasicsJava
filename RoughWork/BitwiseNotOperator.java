@@ -11,3 +11,4 @@ public class BitwiseNotOperator{
 	 System.out.print(~++i);
 	 }
 	}
+// for practise 
